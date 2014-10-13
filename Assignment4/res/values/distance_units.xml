@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment4</string>
+    <string name="distance_unit_prompt">Choose a unit</string>
+
+    <string-array name="distance_unit_arrays">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+
+</resources>
